@@ -1,0 +1,14 @@
+{
+    "cursos": [
+      {
+        "nome": "Ciências Contábeis",
+        "imagem": "ciencont.jpg",
+        "link": ""
+      },
+      {
+        "nome": "Tecnologia em Gestão Comercial",
+        "imagem": "tecgesco.jpg",
+        "link": ""
+      }
+    ]
+}
